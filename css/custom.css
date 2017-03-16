@@ -1,0 +1,230 @@
+@font-face {
+    font-family: "SolaimanLipi";
+    src: url('fonts/SolaimanLipi.ttf');
+}
+*{
+    font-family: SolaimanLipi;
+
+}
+
+a{
+    color: #333;
+}
+
+p{
+    font-size: 1.2em;
+}
+.navbar {min-height: 35px; border-radius: 0px;}
+.navbar-brand {padding: 0 15px; height: 35px; }
+
+#main-nav li a{
+    font-size: 1.5em;
+}
+
+#search-button{
+    padding: 0.8rem;
+    margin-top: 0.5em;
+}
+.nav-tabs {
+    display: inline-block;
+    border-bottom: none;
+    /*padding: 15px;*/
+    font-weight: bold;
+}
+
+
+.nav-tabs > li > a,
+.nav-tabs > li > a:hover,
+.nav-tabs > li > a:focus,
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus {
+    border: none;
+    border-radius: 22px;
+
+}
+
+
+.mega-dropdown { position: static !important; }
+.mega-dropdown-menu {
+    padding: 15px 15px 15px;
+    /*text-align: center;*/
+    width: 100%;
+}
+.mega-dropdown-menu ul li{
+    padding: 10px;
+}
+
+.tab ul li {
+    list-style-type: square;
+    border-bottom: 1px solid #dedede;
+    margin: -10px 0 8px -30px;
+    padding: 8px 0px;
+
+
+}
+.tab ul li a {
+    font-size: 18px;
+    text-decoration: none;
+    overflow: hidden;
+
+}
+
+.national{
+     margin:3px 0px;
+     padding: 0px 0.5em;
+
+ }
+
+.international-list-image{
+    float: left;
+    height: 5em;
+}
+.international-list-image img{
+    float: left;
+    width: 5em;
+    height: 4em;
+    margin-right: 0.5em;
+    padding: 0px;
+    clear: both;
+}
+.international-list-title{
+    padding-left: 0.5em;
+    overflow: hidden;
+    margin-top: -8px;
+
+}
+.international-list-title a{
+    text-decoration: none;
+}
+.international-list-news{
+    height: 5em;
+    padding: 3px;
+    border-bottom: 1px solid #aaaaaa;
+    background-color: #dedede;
+}
+
+.international-list-news:hover{
+    background-color: #efefef;
+}
+.cricket-list-image img{
+    float: left;
+    width: 3.5em;
+    height: 3em;
+
+    margin: 0px;
+    clear: both;
+}
+.cricket-list-title {
+
+    padding-left: 0.5em;
+    overflow: hidden;
+    margin-top: -8px;
+}
+
+.cricket-list-news{
+    height: 3.5em;
+    padding: 3px;
+    border-bottom: 1px solid #aaaaaa;
+    background-color: #dedede;
+}
+.cricket-list-news:hover{
+    background-color: #efefef;
+}
+.cricket-list-news a{
+    text-decoration: none;
+
+}
+.cricket-list-news:last-child{
+    border-bottom: none;
+}
+.section-top {
+    margin-bottom: 0.8em;
+}
+
+.remove-padding-margin{
+    margin: 0;
+    padding:0;
+}
+.section-bottom-margin {
+    margin-bottom: 60px;
+}
+
+.category-title {
+    /*border-left: 4px solid #136503;*/
+    font-size: 18px;
+    font-weight: 300;
+    height: 8px;
+//margin-left: -5px;
+    padding: 10px;
+
+    margin: 1em 0 ;
+}
+.category-title p {
+  margin:-12px 0 4px;
+}
+.category-title p a {
+    color: #666;
+}
+.category-title p a:hover {
+    text-decoration: none;
+}
+
+.breaking-news{
+    background-color: #000;
+    color: #fff;
+    float: left;
+
+}
+.breaking-news p{
+    margin-top: 0.5em;
+    height: 1em;
+
+}
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover {
+    color: #fff;
+    cursor: default;
+    background-color: #000;
+
+}
+
+.more li {
+    border-bottom: 1px solid #dedede;
+    padding: 5px;
+    list-style-type: square;
+    margin-left: 0px;
+}
+.more li:last-child{
+    border-bottom: none;
+}
+.more {
+    margin-left: -1.8em;
+
+}
+.single-news{
+    margin: 0.8em 0;
+    text-align: justify;
+}
+.international{
+    border-right: 1px solid #dedede;
+}
+
+.single-section{
+    min-height: 27em;
+}
+.single-section ul li{
+   list-style-type: none;
+    padding: 1em 0.5em;
+    background-color: #eee;
+    margin-left: -3em;
+    border-bottom: 1px solid #dedede;
+}
+.single-section ul li:hover{
+background-color: #dddddd;
+
+}
+.single-section ul li a{
+    padding: 1em 0em;
+
+}
