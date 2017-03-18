@@ -94,7 +94,7 @@
         <div class="row">
             <div class="col-sm-12" style="margin: 2.5em 0 0 0; padding: 0;">
                 <div class="col-sm-3">
-                    <div class="well well-sm" style="min-height: 21em;">
+                    <div class="well well-sm top-single-section">
                         <div class="img-block">
                             <img src="images/sports.jpg" alt="Sports" class="img-responsive img-thumbnail">
                         </div>
@@ -103,7 +103,7 @@
                     </div>
                 </div>
                 <div class="col-sm-3">
-                    <div class="well well-sm" style="min-height: 21em;">
+                    <div class="well well-sm top-single-section">
 
                         <div class="img-block">
                             <img src="images/sports.jpg" alt="Sports" class="img-responsive img-thumbnail">
@@ -113,7 +113,7 @@
                     </div>
                 </div>
                 <div class="col-sm-3">
-                    <div class="well well-sm" style="min-height: 21em;">
+                    <div class="well well-sm top-single-section">
 
                         <div class="img-block">
                             <img src="images/sports.jpg" alt="Sports" class="img-responsive img-thumbnail">
@@ -123,7 +123,7 @@
                     </div>
                 </div>
                 <div class="col-sm-3">
-                    <div class="well well-sm" style="min-height: 21em;">
+                    <div class="well well-sm top-single-section">
 
                         <div class="img-block">
                             <img src="images/sports.jpg" alt="Sports" class="img-responsive img-thumbnail">
@@ -135,7 +135,7 @@
             </div>
             <div class="col-sm-12" style="margin: 2.5em 0 0 0;padding: 0;">
                 <div class="col-sm-3">
-                    <div class="well well-sm" style="min-height: 21em;">
+                    <div class="well well-sm top-single-section">
 
                         <div class="img-block">
                             <img src="images/sports.jpg" alt="Sports" class="img-responsive img-thumbnail">
@@ -145,7 +145,7 @@
                     </div>
                 </div>
                 <div class="col-sm-3">
-                    <div class="well well-sm" style="min-height: 21em;">
+                    <div class="well well-sm top-single-section">
 
                         <div class="img-block">
                             <img src="images/sports.jpg" alt="Sports" class="img-responsive img-thumbnail">
@@ -155,7 +155,7 @@
                     </div>
                 </div>
                 <div class="col-sm-3">
-                    <div class="well well-sm" style="min-height: 21em;">
+                    <div class="well well-sm top-single-section">
 
                         <div class="img-block">
                             <img src="images/sports.jpg" alt="Sports" class="img-responsive img-thumbnail">
@@ -165,7 +165,7 @@
                     </div>
                 </div>
                 <div class="col-sm-3">
-                    <div class="well well-sm" style="min-height: 21em;">
+                    <div class="well well-sm top-single-section">
 
                         <div class="img-block">
                             <img src="images/sports.jpg" alt="Sports" class="img-responsive img-thumbnail">
@@ -257,6 +257,14 @@
                             </div>
                             <div class="international-list-title">
                                 <h4><a href="">আমেরিকান চেতনা পুনরুজ্জীবিত করার অঙ্গীকার</a></h4>
+                            </div>
+                        </div>
+                        <div class="international-list-news">
+                            <div class="international-list-image">
+                                <img src="images/sports.jpg" alt="Sports" class="img-responsive img-thumbnail">
+                            </div>
+                            <div class="international-list-title">
+                                <h4><a href="">ডেমোক্রেটিক পার্টির প্রেসিডেন্ট পেরেজ</a></h4>
                             </div>
                         </div>
                         <div class="international-list-news">
